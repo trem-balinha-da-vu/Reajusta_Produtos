@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1718904304 source:c:\users\izabe\desktop\reajusta_produtos\reajuste.c
+	<stdio.h>
+	"reajuste.h"
+	"C:\\Users\\izabe\\Desktop\\Cria_arq_prod\\produtos.h"
+	"C:\\Users\\izabe\\Desktop\\Cria_arq_prod\\interface.h"
+
+1718901839 c:\users\izabe\desktop\reajusta_produtos\reajuste.h
+
+1718899285 c:\\users\\izabe\\desktop\\cria_arq_prod\\produtos.h
+
+1718903663 source:c:\users\izabe\desktop\reajusta_produtos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"reajuste.h"
+	"produtos.h"
+	"interface.h"
+
+1718899376 c:\\users\\izabe\\desktop\\cria_arq_prod\\interface.h
+
+1718903518 source:c:\users\izabe\desktop\reajusta_produtos\interface.c
+	<stdlib.h>
+	<stdio.h>
+	"interface.h"
+
+1718903460 c:\users\izabe\desktop\reajusta_produtos\interface.h
+
+1718903724 source:c:\users\izabe\desktop\reajusta_produtos\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produtos.h"
+
+1718903628 c:\users\izabe\desktop\reajusta_produtos\produtos.h
+
